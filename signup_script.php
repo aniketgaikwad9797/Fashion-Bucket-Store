@@ -1,7 +1,5 @@
 <?php
 require 'includes/common_connection.php';
-?>
-<?php
 if(isset($_SESSION['email']))
 {
   header('location:products.php');
