@@ -19,3 +19,13 @@ The Fashion Bucket Store is a responsive and dynamic e-commerce website using HT
 
 <img src="screenshots/login.png">
 
+## Technologies Used
+
+#### Front End
+* HTML5
+* CSS3
+* Bootstrap4
+
+### Back End
+* PHP
+* MySQLi
